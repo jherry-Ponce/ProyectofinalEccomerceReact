@@ -1,0 +1,15 @@
+.price-del{
+    font-size: 0.9rem;
+    font-weight: bold;
+}
+.price-del span{
+    color: #aaa;
+    font-weight: 700;
+    text-decoration: line-through;
+}
+.cursor-pointer{
+    cursor: pointer;
+}
+.cursor-pointer:hover{
+    color: rgb(255, 81, 0);
+}

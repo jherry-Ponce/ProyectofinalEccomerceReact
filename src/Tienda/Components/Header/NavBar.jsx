@@ -115,8 +115,8 @@ export const NavBar = () => {
                     <>
                       <li className="navigation-link text-primary ">
                         <Link 
-                         to="/Product"
-                          className="py-2 text-sm text-dark d-flex aling-items-center lista-menu "
+                         to="/Category"
+                          className="py-2 text-sm text-dark d-flex align-items-center lista-menu "
                         >
                           <span className="d-flex justify-content-center w-25">
                             {/* iconos */}
