@@ -13,3 +13,8 @@
 .cursor-pointer:hover{
     color: rgb(255, 81, 0);
 }
+.banner-category{
+    height: 25em;
+    object-position: center;
+    object-fit: fill;
+}
