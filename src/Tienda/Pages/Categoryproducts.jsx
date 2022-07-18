@@ -8,7 +8,6 @@ export const Categoryproducts=()=>{
         <Container>
             <Navcategory/>
             <Cardcategory/>
-            <Categoryfilters/>
         </Container>
         </>
     )
